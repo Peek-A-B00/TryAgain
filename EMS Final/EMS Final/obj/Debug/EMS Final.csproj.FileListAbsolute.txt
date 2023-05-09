@@ -1,0 +1,52 @@
+C:\Users\Hamza\source\repos\EMS Final\EMS Final\bin\Debug\EMS Final.exe.config
+C:\Users\Hamza\source\repos\EMS Final\EMS Final\bin\Debug\EMS Final.exe
+C:\Users\Hamza\source\repos\EMS Final\EMS Final\bin\Debug\EMS Final.pdb
+C:\Users\Hamza\source\repos\EMS Final\EMS Final\obj\Debug\EMS Final.csproj.AssemblyReference.cache
+C:\Users\Hamza\source\repos\EMS Final\EMS Final\obj\Debug\EMS Final.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hamza\source\repos\EMS Final\EMS Final\obj\Debug\EMS_Final.Employee.resources
+C:\Users\Hamza\source\repos\EMS Final\EMS Final\obj\Debug\EMS_Final.Home.resources
+C:\Users\Hamza\source\repos\EMS Final\EMS Final\obj\Debug\EMS_Final.Login.resources
+C:\Users\Hamza\source\repos\EMS Final\EMS Final\obj\Debug\EMS_Final.Splash.resources
+C:\Users\Hamza\source\repos\EMS Final\EMS Final\obj\Debug\EMS_Final.Properties.Resources.resources
+C:\Users\Hamza\source\repos\EMS Final\EMS Final\obj\Debug\EMS Final.csproj.GenerateResource.cache
+C:\Users\Hamza\source\repos\EMS Final\EMS Final\obj\Debug\EMS Final.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\source\repos\EMS Final\EMS Final\obj\Debug\EMS Final.exe
+C:\Users\Hamza\source\repos\EMS Final\EMS Final\obj\Debug\EMS Final.pdb
+C:\Users\Hamza\source\repos\EMS Final\EMS Final\obj\Debug\EMS_Final.ViewEmployee.resources
+C:\Users\Hamza\source\repos\EMS Final\EMS Final\obj\Debug\EMS_Final.Salary.resources
+C:\Users\Hamza\Desktop\inshallah\EMS Final\EMS Final\bin\Debug\EMS Final.exe.config
+C:\Users\Hamza\Desktop\inshallah\EMS Final\EMS Final\bin\Debug\EMS Final.exe
+C:\Users\Hamza\Desktop\inshallah\EMS Final\EMS Final\bin\Debug\EMS Final.pdb
+C:\Users\Hamza\Desktop\inshallah\EMS Final\EMS Final\obj\Debug\EMS Final.csproj.AssemblyReference.cache
+C:\Users\Hamza\Desktop\inshallah\EMS Final\EMS Final\obj\Debug\EMS Final.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hamza\Desktop\inshallah\EMS Final\EMS Final\obj\Debug\EMS_Final.Employee.resources
+C:\Users\Hamza\Desktop\inshallah\EMS Final\EMS Final\obj\Debug\EMS_Final.Home.resources
+C:\Users\Hamza\Desktop\inshallah\EMS Final\EMS Final\obj\Debug\EMS_Final.Login.resources
+C:\Users\Hamza\Desktop\inshallah\EMS Final\EMS Final\obj\Debug\EMS_Final.Salary.resources
+C:\Users\Hamza\Desktop\inshallah\EMS Final\EMS Final\obj\Debug\EMS_Final.Splash.resources
+C:\Users\Hamza\Desktop\inshallah\EMS Final\EMS Final\obj\Debug\EMS_Final.Properties.Resources.resources
+C:\Users\Hamza\Desktop\inshallah\EMS Final\EMS Final\obj\Debug\EMS_Final.ViewEmployee.resources
+C:\Users\Hamza\Desktop\inshallah\EMS Final\EMS Final\obj\Debug\EMS Final.csproj.GenerateResource.cache
+C:\Users\Hamza\Desktop\inshallah\EMS Final\EMS Final\obj\Debug\EMS Final.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\Desktop\inshallah\EMS Final\EMS Final\obj\Debug\EMS Final.exe
+C:\Users\Hamza\Desktop\inshallah\EMS Final\EMS Final\obj\Debug\EMS Final.pdb
+C:\Users\Hamza\Desktop\inshallah\EMS Final\EMS Final\obj\Debug\EMS_Final.Attendance.resources
+C:\Users\Hamza\Desktop\inshallah\EMS Final\EMS Final\obj\Debug\EMS_Final.Leave.resources
+E:\EMS Final\EMS Final\bin\Debug\EMS Final.exe.config
+E:\EMS Final\EMS Final\bin\Debug\EMS Final.exe
+E:\EMS Final\EMS Final\bin\Debug\EMS Final.pdb
+E:\EMS Final\EMS Final\obj\Debug\EMS Final.csproj.AssemblyReference.cache
+E:\EMS Final\EMS Final\obj\Debug\EMS Final.csproj.SuggestedBindingRedirects.cache
+E:\EMS Final\EMS Final\obj\Debug\EMS_Final.Attendance.resources
+E:\EMS Final\EMS Final\obj\Debug\EMS_Final.Employee.resources
+E:\EMS Final\EMS Final\obj\Debug\EMS_Final.Home.resources
+E:\EMS Final\EMS Final\obj\Debug\EMS_Final.Leave.resources
+E:\EMS Final\EMS Final\obj\Debug\EMS_Final.Login.resources
+E:\EMS Final\EMS Final\obj\Debug\EMS_Final.Salary.resources
+E:\EMS Final\EMS Final\obj\Debug\EMS_Final.Splash.resources
+E:\EMS Final\EMS Final\obj\Debug\EMS_Final.Properties.Resources.resources
+E:\EMS Final\EMS Final\obj\Debug\EMS_Final.ViewEmployee.resources
+E:\EMS Final\EMS Final\obj\Debug\EMS Final.csproj.GenerateResource.cache
+E:\EMS Final\EMS Final\obj\Debug\EMS Final.csproj.CoreCompileInputs.cache
+E:\EMS Final\EMS Final\obj\Debug\EMS Final.exe
+E:\EMS Final\EMS Final\obj\Debug\EMS Final.pdb
